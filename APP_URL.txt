@@ -1,0 +1,1 @@
+ضع هنا رابط Google Apps Script Web App الرئيسي بعد النشر، ثم انسخه أيضًا إلى capacitor.config.js

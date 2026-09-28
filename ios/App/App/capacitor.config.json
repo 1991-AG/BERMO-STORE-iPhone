@@ -1,0 +1,14 @@
+{
+	"appId": "com.bermostore.app",
+	"appName": "BERMO STORE",
+	"webDir": "www",
+	"server": {
+		"url": "https://script.google.com/macros/s/AKfycbwTIyM5GwW-2lXPT8RT6DmGHvUJABWnly8AitMVQQEUcsEztR0kSYMF0KhAs0LUzuid/exec",
+		"cleartext": false,
+		"androidScheme": "https"
+	},
+	"ios": {
+		"contentInset": "automatic"
+	},
+	"packageClassList": []
+}

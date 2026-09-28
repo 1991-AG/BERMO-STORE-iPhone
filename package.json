@@ -1,0 +1,20 @@
+{
+  "name": "bermo-store-ios",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BERMO STORE native iPhone shell",
+  "scripts": {
+    "install-web": "npm install",
+    "sync": "npx cap sync",
+    "open:android": "npx cap open android",
+    "open:ios": "npx cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/ios": "^7.6.9"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
